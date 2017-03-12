@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "mustache": "2.2.1",
-    "parse-dashboard": "https://github.com/drchris1502/parse-dashboard"
+    "parse-dashboard": "git+https://github.com/drchris1502/parse-dashboard.git#master"
   }
 }
